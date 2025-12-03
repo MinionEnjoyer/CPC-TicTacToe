@@ -1,0 +1,32 @@
+/* TODO: Add base styles for body and html */
+
+/* TODO: Style the game container */
+/* - Center the game on the page */
+/* - Add padding and background color */
+
+/* TODO: Style the game board */
+/* - Create a 3x3 grid layout */
+/* - Set dimensions (e.g., 300px x 300px) */
+/* - Add border styling */
+
+/* TODO: Style individual squares */
+/* - Make them clickable buttons */
+/* - Set equal width and height */
+/* - Add borders between squares */
+/* - Style hover effects */
+/* - Display X and O text centered */
+/* - Set appropriate font size */
+
+/* TODO: Style the status display */
+/* - Position above or below the board */
+/* - Center text */
+/* - Add margin/padding */
+
+/* TODO: Style the reset button */
+/* - Make it prominent */
+/* - Add hover effects */
+/* - Style active state */
+
+/* TODO: Add winning line animation (optional) */
+/* - Highlight winning squares */
+/* - Add transition effects */

@@ -1,0 +1,20 @@
+{
+  "name": "cpc-tictactoe",
+  "version": "1.0.0",
+  "description": "A tic-tac-toe game implementation with detailed logic explanations",
+  "main": "game.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tictactoe",
+    "game",
+    "typescript",
+    "javascript"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
